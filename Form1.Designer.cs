@@ -36,7 +36,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(876, 480);
             this.Name = "Form1";
-            this.Text = "ПИз-241 Вагапов Д.Д. - Лаб. работа \"Метод золотого сечения\"";
+            this.Text = "ПИз-241 Деменчук К.Д. - Лаб. работа \"Метод золотого сечения\"";
             this.ResumeLayout(false);
 
         }
